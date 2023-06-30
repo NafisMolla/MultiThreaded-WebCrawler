@@ -1,0 +1,3 @@
+http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOKR-cFRCkiCUBEMAAAWfDvBFlRisL9ysLWHYHbcQbn1b28PV_uHBZ0gJf5bvzrnf1HNXxB6KRlAVETwTIqBH2Q==
+http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdRxJhdCk49ofJ1TCxsbV6DF4DIHKtdWsF-5fJM0BHF6b6oM5Y99T7T78SQQcii0YvDMqzGN4L8a4eFsQotIHLA==
+http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqffRXM8b2fsf4GdsWmFBW6IC7U-W87yVu_WWcPDjK86jHIC6vPd3EPwq3OrbwkYPTFs6HN3TA0Sv0d8iXpFlF8A==

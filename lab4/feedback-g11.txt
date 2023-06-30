@@ -1,0 +1,254 @@
+Number of threads is: 20
+Number of unique png_urls is: 60
+Logfile is: log4.txt
+Start of main program
+./findpng2: URL is http://ece252-1.uwaterloo.ca/~yqhuang/lab4/png51.html
+2669 bytes received in memory 0x7dea360, seq=-1.
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOKR-cFRCkiCUBEMAAAWfDvBFlRisL9ysLWHYHbcQbn1b28PV_uHBZ0gJf5bvzrnf1HNXxB6KRlAVETwTIqBH2Q==
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqOKR-cFRCkiCUBEMAAAWfDvBFlRisL9ysLWHYHbcQbn1b28PV_uHBZ0gJf5bvzrnf1HNXxB6KRlAVETwTIqBH2Q==
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqdRxJhdCk49ofJ1TCxsbV6DF4DIHKtdWsF-5fJM0BHF6b6oM5Y99T7T78SQQcii0YvDMqzGN4L8a4eFsQotIHLA==
+No result
+No result
+No result
+No result
+No result
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqffRXM8b2fsf4GdsWmFBW6IC7U-W87yVu_WWcPDjK86jHIC6vPd3EPwq3OrbwkYPTFs6HN3TA0Sv0d8iXpFlF8A==
+No result
+No result
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoq5G4aDniL4Qq2oqRPkqbBpeuL532HGNeDkMbnMeStk6sRtRjOW5pXVTYZftfO_4dMVXEtfMyT6APE_G_oYiiSXg==
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq2z2P0icqsAKhNN1ShRk3VoE4bTiWxKS_b_qZA8AwLWJ-hiyV6MuV1YDLhGQHjWGhAFlYuZlu2yjijdcLAbCPtg==
+No result
+No result
+No result
+No result
+No result
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMygTDJVnG3Ex7i1F-yupYZOA688V189sM0dPqdrEvKYrFzk5KpfesMlljky6uKQjZ9_RqM703IzyhYE64GYVKg==
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq0YgAvVszWYxcJFQB2CCtFpkaPPuXFTzYwphoS7GhEuMgkb2J_OngpH8DFLjRSwhAsIVOXj4r7rk8cW933HkgOg==
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq95uzLLKnQXFFbRje7zj-qIFm3ThjVOVB4HcArwGxDeGoAA9duDGD1VxBIzqVYRL6i7m529eBbSwcZUuH7JSXOw==
+No result
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqG9TVEn26FECwqFiiTwAbRz4vmiPBFKgJ0V-r53I0LPiPAW9Rv60CBOkJ4kAJNotTHPioq7BEvNilwyTFqkoTpQ==
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqyF1KKpXCKBZ6nZbBX6sdqiDexDa3FsCwKVNgbLA1V6BOa9-WmNSZzPFZ9ijA7FQhsCUt0qU8qw0Kjvotk5BmlA==
+No result
+No result
+No result
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqJ5XKlNHrHGYQYTbmdKyzD8VPNxIb2XXhJ06J3nD8alFxSJZSH_NLF6iddf9sqbj5P8dzJMmU6EYbwctBYK8qRQ==
+No result
+No result
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqH0WGwe9CY_eNtBjdsOsGv9Zu2HDaCeO_VOIb048FS6CGqdXJWnoCbk2a-hykr_N_pj0HRtF7yWi9wpq87k3Y5A==
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqccJVzFa4xmR64yRKpVSE-Ga8NCmaqdPWCm5tn8B13hOK-j1WArjzF2Tpn7HXkuLYKMk9d5MMzR-TenITOZ63tg==
+No result
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnAC-dsY2mioYp0KXZFFBTGGQXL_Wg4HSMe4EztPZ_6XbsWhPuW2avlffmdMSqdKhT4sp-6ISg1urDh1YJy32Rg==
+No result
+No result
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcKL_a8HSquHH2l31XjNtpyLVBstSbqXqdfXoJJ-5EY4MYoPWGFPaB5insiMEPDebf8ZvpgP4yVrQzXFCXEn5mg==
+No result
+No result
+No result
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqcyu5_cnSJ2l3T0vVa9cClpFg3Gg5WYBS_pOyPRM2C9eFaDymPpDw9svxZkRLCdML0C_Z1UL0Qin2wQpmjBUTnw==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqgo8YnSJr1mU6zzMBlZBLbvqUQMqVtK3VBBQXLDrXUtAvAjraCPsh6NycXBlxr9DrOtHFqxtq550LlkEXLphCTA==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqUFVDu48UheUKNfQX-u9fLNGuz7mFMd8qHgLphqwVDnuhQvciY3sWnNDZdP91UAAaRJfD0_EOQdKE1ohXVwlNbQ==
+No result
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNWsAWJajhCG7vNTdO9jpw--ZoEuRu3rbfYD0d4j1FKdPyOJnyyIDudoeABe7O3iZePX1BFZpEe7MSE41dI9BOA==
+No result
+No result
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq8a_fCBHa_BLE4fRAdtNj08KN7meSOIuWK1vJPXnmbxWz_gkT9GMTkw7_ml_Ba2VdVKpMvqU_QSpJ9NiIjwFtCA==
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqlbCiDX5b-a3W54nFrTdOJ02a7RbAgwnpArG5_4cSt26a6ps3P63H1tNXc7_2cKjW-5Xpjy9Cv8fAuj2-94dD3g==
+No result
+No result
+No result
+No result
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqaiI_243Hz-JXReQJKhL79samKQKt0e-JN8SvaxSopyH0OFI8981P-KrUlucYcXKmfIN9RHM2Q-_R58tLfSVydw==
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqHxfpDH87RCKWTHVXSECFOPleulDZQbasEch1iWOldZhEuz_yLee9rZSkksALml54i7f34lZFpX_M5S2NK2FTCw==
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq12a1y9KUsnVwBbMvmnrciODR4DVDP8BsN9oe-e_Mfp0X8ghUrgUAokJvNU7ECA7y7kQpRTiWuP-tMuLVLiUjLQ==
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+No result
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqnmj0uxlL9N_MOM4W9SHuG3Bv1GyyjC2slgkHU6HGVjDUWJ5Hry9FnQbkvTr21z79DFqZnzpRQ_TJm3dnFrFipw==
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqT7tyKcy_ZbWe0AURY60Ch3yHQZt64dmU_vskpw1nGNZx__CddiJwU_ozzUshIZipMCGpp9rwe1pWT4Ny8w4xEQ==
+No result
+No result
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqq3BxZfCnvoj1qmF7NeMZqk2cP1b9Ycsv7EHL5ZsYYcsdzuKR8HulpVOF11SNEJ7auMuhfo0YDItv6r24gBI50g==
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqiiGC9giS8uS6D6aAraz9kWgpjluJMTdwRj8VC5COebfvIwofnWRk1DWL-BN3VmwXAwutJ89vRA0Q8iCmQtqxtg==
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqZ06nqQtsvZ8Kd5-MROGMwRYTXXGWsBtuicrp5lKDpagJ6xGb5E8fDyoCo0Ps-JtdVvVEBsKJ8p4nFSx4AJaOZA==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYQXrORR1PHeT9YKz0yJFE66gkOBsQcRZx2qQ-Sxvv-7V-YMmnwY99C-FnzB0WGyz9oc2sootaVTkiffjd5p2SA==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqGd7UrFBhWrUaWMssY-MAuGjIxYVur9watlrpWPwTOkVFA1T8sFuqYKCfystNh6RyE6BFu_UQ_QZpNAZQkx22Aw==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqL9LRuHk7JF7cBx-hVADRTJCdjjs0or5ItVqFsYcwwCgdiCP7LioEm5vDYlN520W5833KcratYKQCFaCjTxnO2w==
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq-eTw_rpW7aW7Aqp7X79B1icwl5NKjSpSVRw9uhONrg1qsv2biNyWVXCIlC1UNcfibFfNX3ou34YcaLH_yEWZ3w==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqKpeuOY-q44PQvM41wYM4ZeGu0j2wer5aWP4tCvpRCEMoNoCJBluQSln6R_g7imGtqnWBaG_6NmC6jwY6i7g3qQ==
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqNlb24OOyW_IOhXJn3-sWtGsGFjOUHBs9cmNC47NakGDzkSB4mVOELBv7uzl4y5C_yX3dbr0101tZJLJYixkgHg==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoq_jZ6zKbsB8-h6ymyqpIbdvOWlZnhDYslAKpAeZemQ-xUpAxWYrwOKkyoxyUU5BvzYBfOIvxqH5YrgcDivbnFmw==
+No result
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqf4ZaziO9hQbcSzRKIkt2tBexZsA89foKy05t_Bs_FmunbWysMSjpASncgIMb9MybFO3ge9EYLzdNNeXoN85aww==
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqav1Kdiw1sKgCtkng9xg0Zyiyvhd3DrosEFgqg3Prqnw6H3SwlotULiad5cBOAqVe8gwKXzTVGzk9dx85sz_OPQ==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqjfvwVPlPowd8jdAn8FpeUobBHXralnARDqT9BVXw4k1f7V35hhlAvL-eb_yrDE_bcphYp5k0EWtLjJeR-cPwtA==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqYs5s56JbI8p4kgUs2Yt18Ag7uwAZ7JV9neAf4zTeg3o6Judx0-91bDxWomBkRoqZ7qW2M62pvW3X4h95yikmFA==
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqZ9Q5CWEe_l2tUpoA9sZdOAqkr21C9g-pUcFJpNSAV2Uav9IwoZmavFcEloh3auR1EJ2oYnYhw2RiD3o9TAe-bA==
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqb9ZaJ3q4dlzEvTgG9WYwKcD9Aw7OUXeFicO-5M5IdNDjHBpKw7KBK3nCVqtuga4yzUaFEpJn8BqA1LzZprIJBw==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqpZcK246XF93AIlS-2FVxOSt7kSYkO1s2y0lsqwzCgZyPQ6EVNfa7Ok0RYG3n2jnzMeozr58l9AEs7VRUevNpQA==
+url: http://ece252-2.uwaterloo.ca:2540/image?q=gAAAAABdHkoqohtRavtxROdkHkjdg5-Qds9yiyyjsLmCOZAyj6py9KDC3HG59pR87oWCPSpVH652UGEqaTYsC8tgNc7C7kDQYw==
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqS9JZ1mhvwHbuCJLZAhAf6BW3GL2shQEsemd5YDvBpOOnKBbfXoj2BX-v5Yrsnb3lcPz3XQc751PIKY-5EckiRg==
+No result
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqbop_r-bv-GcAXp25P0qVJVwrRuQrJozXTpHlFh6TGJPXtp2CZAV13en29GF9wyAmIufltoax_YoIp1KMoisy7Q==
+url: http://ece252-3.uwaterloo.ca:2540/image?q=gAAAAABdHkoqth1j2waImmxp3FYuKw2kVBIkoarGJktM2TtSC2J78uwnaZObw4-rdnrypZw8y9h1E_sAM0G7pVTCkkuVoimq0Q==
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqERCtkyqVRCjbnoVakr_v91GlK2M-3aPfqizRnw_h5SKZdEeKUGglkrMHYg--ImcRUEFcJmTZGPYZxUyyBMX20Q==
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoqMUkP4fdCUpgRdQqvWMVvlp-n8WuV6_Hkn78FkrQO-xqJza1MGj559YmXiukjEnouKpNdeWFuQWlgaiX2Dbb0cA==
+url: http://ece252-1.uwaterloo.ca:2540/image?q=gAAAAABdHkoq9Z8RdTtoktA-1xxESuhS6D_q3wV5apoPT58_MCY5VjI4pSF3v3mXX_YG0Oa02ASxLs9araYeSv54oEL1Vwj_Lg==
+findpng2 execution time: 19.141453 seconds
+
+=====
+Test Case #1:
+# Threads (t) = 5
+# PNGs (m) = 50
+Log file name = log1.txt
+SEED = http://ece252-1.uwaterloo.ca/lab4
+Execution time = 12.636323690414429 seconds
+
+Number of reported PNGs = 50
+Number of duplicates in PNGs = 0
+Duplicate PNGs:
+[]
+Incorrect PNGs:
+[]
+
+Number of reported visited links = 348
+Number of duplicates in visited links = 0
+Duplicate visited links:
+[]
+Incorrect Visited Links:
+[]
+
+
+=====
+Test Case #2:
+# Threads (t) = 10
+# PNGs (m) = 20
+Log file name = log2.txt
+SEED = http://ece252-1.uwaterloo.ca/lab4
+Execution time = 4.683128833770752 seconds
+
+Number of reported PNGs = 20
+Number of duplicates in PNGs = 0
+Duplicate PNGs:
+[]
+Incorrect PNGs:
+[]
+
+Number of reported visited links = 302
+Number of duplicates in visited links = 0
+Duplicate visited links:
+[]
+Incorrect Visited Links:
+[]
+
+
+=====
+Test Case #3:
+# Threads (t) = 15
+# PNGs (m) = 30
+Log file name = log3.txt
+SEED = http://ece252-1.uwaterloo.ca/~yqhuang/lab4/png51.html
+Execution time = 4.284318685531616 seconds
+
+Number of reported PNGs = 30
+Number of duplicates in PNGs = 0
+Duplicate PNGs:
+[]
+Incorrect PNGs:
+[]
+
+Number of reported visited links = 333
+Number of duplicates in visited links = 0
+Duplicate visited links:
+[]
+Incorrect Visited Links:
+[]
+
+
+=====
+Test Case #4:
+# Threads (t) = 20
+# PNGs (m) = 60
+Log file name = log4.txt
+SEED = http://ece252-1.uwaterloo.ca/~yqhuang/lab4/png51.html
+Execution time = 3.648409843444824 seconds
+
+Number of reported PNGs = 51
+Number of duplicates in PNGs = 0
+Duplicate PNGs:
+[]
+Incorrect PNGs:
+[]
+
+Number of reported visited links = 351
+Number of duplicates in visited links = 0
+Duplicate visited links:
+[]
+Incorrect Visited Links:
+[]
+
+
+=====
+Memory Leak Report:
+==512869==     in use at exit: 389,510,455 bytes in 27,464 blocks
+
